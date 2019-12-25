@@ -296,6 +296,20 @@
 
 </ul>
 
+</br>
+<h2>Imitation Learning and Inverse Reinforcement Learning: </h2>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(87).pdf" style="text-decoration:none;">Generative Adversarial Imitation Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(88).pdf" style="text-decoration:none;">DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skill</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(89).pdf" style="text-decoration:none;">Modeling Purposeful Adaptive Behavior with the Principle of Maximum Causal Entropy</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(90).pdf" style="text-decoration:none;">Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(91).pdf" style="text-decoration:none;">Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(92).pdf" style="text-decoration:none;">One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL</a></b></li>
 
+</ul>
 
 
