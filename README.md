@@ -39,8 +39,19 @@
 
 </ul>
 
+</br>
+<p> <strong>Deterministic Policy Gradients </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(15).pdf" style="text-decoration:none;">Deterministic Policy Gradient Algorithms</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(16).pdf" style="text-decoration:none;">Continuous Control With Deep Reinforcement Learning</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(17).pdf" style="text-decoration:none;"> Addressing Function Approximation Error in Actor-Critic Methods</a></b></li>                         
+ 
 
+</ul>
 
 
 
