@@ -266,7 +266,19 @@
 
 </ul>
 
+</br>
+<h2>RL in the Real World: </h2>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(77).pdf" style="text-decoration:none;">Benchmarking Reinforcement Learning Algorithms on Real-World Robots</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(78).pdf" style="text-decoration:none;">Horizon: Facebook's Open Source Applied Reinforcement Learning Platform</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(79).pdf" style="text-decoration:none;">Learning Dexterous In-Hand Manipulation</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(80).pdf" style="text-decoration:none;">QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation</a></b></li>
 
+
+</ul>
 
 
 
