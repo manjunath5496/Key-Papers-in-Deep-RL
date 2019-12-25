@@ -93,10 +93,23 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(26).pdf" style="text-decoration:none;">Trust-PCL: An Off-Policy Trust Region Method for Continuous Control</a></b></li>
 
 
+</ul>
+
+</br>
+<p> <strong>Other Directions for Combining Policy-Learning and Q-Learning </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(27).pdf" style="text-decoration:none;">Combining Policy Gradient and Q-learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(28).pdf" style="text-decoration:none;">The Reactor: A Fast and Sample-Efficient Actor-Critic Agent for Reinforcement Learning</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(29).pdf" style="text-decoration:none;">Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement LearningBridging the Gap Between Value and Policy Based Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(30).pdf" style="text-decoration:none;">Equivalence Between Policy Gradients and Soft Q-Learning</a></b></li>
     
 
 </ul>
-
 
 
 
