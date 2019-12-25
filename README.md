@@ -69,7 +69,20 @@
 
 </ul>
 
+</br>
+<p> <strong>Policy Gradients with Action-Dependent Baselines </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(22).pdf" style="text-decoration:none;">Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(23).pdf" style="text-decoration:none;">Action-depedent Control Variates for Policy Optimization via Stein's Identity</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(24).pdf" style="text-decoration:none;"> The Mirage of Action-Dependent Baselines in Reinforcement Learning</a></b></li>                         
+ 
+    
+
+</ul>
 
 
 
