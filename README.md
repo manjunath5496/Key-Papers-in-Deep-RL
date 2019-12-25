@@ -224,4 +224,15 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(64).pdf" style="text-decoration:none;">Model-Based Reinforcement Learning via Meta-Policy Optimization</a></b></li>    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(65).pdf" style="text-decoration:none;">Model-Ensemble Trust-Region Policy Optimization</a></b></li>
 </ul>
+</br>
+<p> <strong>Model is Given </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(66).pdf" style="text-decoration:none;">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(67).pdf" style="text-decoration:none;">Thinking Fast and Slow with Deep Learning and Tree Search</a></b></li>
+
+
+</ul>
 
