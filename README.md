@@ -144,9 +144,17 @@
 </br>
 
 
+<p> <strong>Unsupervised RL </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(40).pdf" style="text-decoration:none;">Variational Intrinsic Control</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(41).pdf" style="text-decoration:none;">Diversity is All You Need: Learning Skills without a Reward Function</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(42).pdf" style="text-decoration:none;"> Variational Option Discovery Algorithms</a></b></li>  
 
-
+</ul>
 
 
 
