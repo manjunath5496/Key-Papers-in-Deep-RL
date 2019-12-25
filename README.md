@@ -312,4 +312,20 @@
 
 </ul>
 
+</br>
+<h2>Reproducibility, Analysis, and Critique: </h2>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(93).pdf" style="text-decoration:none;">Benchmarking Deep Reinforcement Learning for Continuous Control</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(94).pdf" style="text-decoration:none;">Simple random search provides a competitive approach to reinforcement learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(95).pdf" style="text-decoration:none;">Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(96).pdf" style="text-decoration:none;">Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(97).pdf" style="text-decoration:none;">Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(98).pdf" style="text-decoration:none;">Benchmarking Model-Based Reinforcement Learning</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(99).pdf" style="text-decoration:none;">Deep Reinforcement Learning that Matters</a></b></li>
+
+</ul>
