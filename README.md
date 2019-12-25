@@ -54,7 +54,20 @@
 </ul>
 
 
+</br>
+<p> <strong>Distributional RL </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(18).pdf" style="text-decoration:none;">A Distributional Perspective on Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(19).pdf" style="text-decoration:none;">Distributional Reinforcement Learning with Quantile Regression</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(20).pdf" style="text-decoration:none;"> Implicit Quantile Networks for Distributional Reinforcement Learning</a></b></li>                         
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(21).pdf" style="text-decoration:none;"> Dopamine: A Research Framework for Deep Reinforcement Learning</a></b></li>       
+
+</ul>
 
 
 
