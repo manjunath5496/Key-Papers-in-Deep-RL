@@ -123,3 +123,33 @@
 
 </ul>
 
+
+<h2>Exploration: </h2>
+
+<p> <strong>Intrinsic Motivation </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(32).pdf" style="text-decoration:none;">VIME: Variational Information Maximizing Exploration</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(33).pdf" style="text-decoration:none;">Unifying Count-Based Exploration and Intrinsic Motivation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(34).pdf" style="text-decoration:none;"> #Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(35).pdf" style="text-decoration:none;">EX<sup>2</sup>: Exploration with Exemplar Models for Deep Reinforcement Learning</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(36).pdf" style="text-decoration:none;">Count-Based Exploration with Neural Density Models</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(37).pdf" style="text-decoration:none;">Curiosity-driven Exploration by Self-supervised Prediction</a></b></li>    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(38).pdf" style="text-decoration:none;">Large-Scale Study of Curiosity-Driven Learning</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(39).pdf" style="text-decoration:none;">Exploration by Random Network Distillation</a></b></li>    
+</ul>
+</br>
+
+
+
+
+
+
+
+
+
+
+
