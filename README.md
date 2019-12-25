@@ -178,7 +178,7 @@
 
 </br>
 
-<h2>Transfer and Multitask RL: </h2>
+<h2>Hierarchy: </h2>
 
 <ul>
   
