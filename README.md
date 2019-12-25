@@ -83,8 +83,8 @@
     
 
 </ul>
-
-<p> <strong>Policy Gradients with Action-Dependent Baselines </strong> </p>
+</br>
+<p> <strong>Path-Consistency Learning </strong> </p>
 <hr>
 <ul>
   
