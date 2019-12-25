@@ -329,3 +329,25 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(99).pdf" style="text-decoration:none;">Deep Reinforcement Learning that Matters</a></b></li>
 
 </ul>
+
+</br>
+<h2>Bonus: Classic Papers in RL Theory or Review: </h2>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(100).pdf" style="text-decoration:none;">Policy Gradient Methods for Reinforcement Learning with Function Approximation</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(101).pdf" style="text-decoration:none;">An Analysis of Temporal-Difference Learning with Function Approximation</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(102).pdf" style="text-decoration:none;">Approximately Optimal Approximate Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(103).pdf" style="text-decoration:none;">A Natural Policy Gradient</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(104).pdf" style="text-decoration:none;">Algorithms for Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(105).pdf" style="text-decoration:none;">Reinforcement Learning of Motor Skills with Policy Gradients</a></b></li>
+
+
+
+</ul>
+
+
+
+
