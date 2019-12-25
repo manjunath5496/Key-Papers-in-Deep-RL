@@ -155,7 +155,25 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(42).pdf" style="text-decoration:none;"> Variational Option Discovery Algorithms</a></b></li>  
 
 </ul>
+</br>
 
+<h2>Transfer and Multitask RL: </h2>
+
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(43).pdf" style="text-decoration:none;">Progressive Neural Networks</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(44).pdf" style="text-decoration:none;">Reinforcement Learning with Unsupervised Auxiliary Tasks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(45).pdf" style="text-decoration:none;">PathNet: Evolution Channels Gradient Descent in Super Neural Networks</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(46).pdf" style="text-decoration:none;">Hindsight Experience Replay</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(47).pdf" style="text-decoration:none;">The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(48).pdf" style="text-decoration:none;">Learning an Embedding Space for Transferable Robot Skills</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(49).pdf" style="text-decoration:none;">Universal Value Function Approximators</a></b></li>    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(50).pdf" style="text-decoration:none;">Mutual Alignment Transfer Learning</a></b></li>
+
+</ul>
+</br>
 
 
 
