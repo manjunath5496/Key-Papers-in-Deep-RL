@@ -280,6 +280,21 @@
 
 </ul>
 
+</br>
+<h2>Safety: </h2>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(81).pdf" style="text-decoration:none;">Concrete Problems in AI Safety</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(82).pdf" style="text-decoration:none;">Constrained Policy Optimization</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(83).pdf" style="text-decoration:none;">Deep Reinforcement Learning from Human Preferences</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(84).pdf" style="text-decoration:none;">Trial without Error: Towards Safe Reinforcement Learning via Human Intervention</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(85).pdf" style="text-decoration:none;">Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(86).pdf" style="text-decoration:none;">Safe Exploration in Continuous Action Spaces</a></b></li>
+
+</ul>
 
 
 
