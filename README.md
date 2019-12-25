@@ -84,6 +84,18 @@
 
 </ul>
 
+<p> <strong>Policy Gradients with Action-Dependent Baselines </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(25).pdf" style="text-decoration:none;">Bridging the Gap Between Value and Policy Based Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(26).pdf" style="text-decoration:none;">Trust-PCL: An Off-Policy Trust Region Method for Continuous Control</a></b></li>
+
+
+    
+
+</ul>
 
 
 
