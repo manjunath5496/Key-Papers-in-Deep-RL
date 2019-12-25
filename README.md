@@ -235,4 +235,17 @@
 
 
 </ul>
+</br>
+<h2>Meta-RL: </h2>
 
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(68).pdf" style="text-decoration:none;">RL<sup>2</sup>: Fast Reinforcement Learning via Slow Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(69).pdf" style="text-decoration:none;">Learning to Reinforcement Learn</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(70).pdf" style="text-decoration:none;"> Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(71).pdf" style="text-decoration:none;">A Simple Neural Attentive Meta-Learner</a></b></li>  
+   
+
+</ul>
