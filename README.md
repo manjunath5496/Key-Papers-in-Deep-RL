@@ -205,13 +205,23 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(58).pdf" style="text-decoration:none;">Relational recurrent neural networks</a></b></li>  
 
 
-
-
-
-
-
 </ul>
 </br>
 
+<h2>Model-Based RL: </h2>
 
+<p> <strong>Model is Learned </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(59).pdf" style="text-decoration:none;">Imagination-Augmented Agents for Deep Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(60).pdf" style="text-decoration:none;">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(61).pdf" style="text-decoration:none;"> Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(62).pdf" style="text-decoration:none;">Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(63).pdf" style="text-decoration:none;">Recurrent World Models Facilitate Policy Evolution</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(64).pdf" style="text-decoration:none;">Model-Based Reinforcement Learning via Meta-Policy Optimization</a></b></li>    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(65).pdf" style="text-decoration:none;">Model-Ensemble Trust-Region Policy Optimization</a></b></li>
+</ul>
 
