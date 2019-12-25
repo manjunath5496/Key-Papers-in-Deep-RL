@@ -176,6 +176,19 @@
 </br>
 
 
+</br>
 
+<h2>Transfer and Multitask RL: </h2>
+
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(51).pdf" style="text-decoration:none;">Strategic Attentive Writer for Learning Macro-Actions</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(52).pdf" style="text-decoration:none;">FeUdal Networks for Hierarchical Reinforcement Learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(53).pdf" style="text-decoration:none;">Data-Efficient Hierarchical Reinforcement Learning</a></b></li>                         
+
+</ul>
+</br>
 
 
