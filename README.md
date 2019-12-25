@@ -176,8 +176,6 @@
 </br>
 
 
-</br>
-
 <h2>Hierarchy: </h2>
 
 <ul>
@@ -190,5 +188,30 @@
 
 </ul>
 </br>
+
+<h2>Memory: </h2>
+
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(54).pdf" style="text-decoration:none;">Model-Free Episodic Control</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(55).pdf" style="text-decoration:none;">Neural Map: Structured Memory for Deep Reinforcement Learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(56).pdf" style="text-decoration:none;">Neural Episodic Control</a></b></li>  
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(57).pdf" style="text-decoration:none;">Unsupervised Predictive Memory in a Goal-Directed Agent</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(58).pdf" style="text-decoration:none;">Relational recurrent neural networks</a></b></li>  
+
+
+
+
+
+
+
+</ul>
+</br>
+
 
 
