@@ -111,5 +111,15 @@
 
 </ul>
 
+</br>
+<p> <strong>Evolutionary Algorithms </strong> </p>
+<hr>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(31).pdf" style="text-decoration:none;">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a></b></li>
+  
+                         
+ 
 
+</ul>
 
