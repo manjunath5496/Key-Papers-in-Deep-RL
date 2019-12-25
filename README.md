@@ -249,3 +249,26 @@
    
 
 </ul>
+
+
+</br>
+<h2>Scaling RL: </h2>
+<ul>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(72).pdf" style="text-decoration:none;">Accelerated Methods for Deep Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(73).pdf" style="text-decoration:none;">Distributed Prioritized Experience Replay</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(74).pdf" style="text-decoration:none;">Recurrent Experience Replay in Distributed Reinforcement Learning</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(75).pdf" style="text-decoration:none;">RLlib: Abstractions for Distributed Reinforcement Learning</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Key-Papers-in-Deep-RL/blob/master/plk(76).pdf" style="text-decoration:none;">IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures</a></b></li>
+
+</ul>
+
+
+
+
+
+
+
